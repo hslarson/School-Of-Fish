@@ -8,7 +8,7 @@ pygame.init()
 #Title & Icon
 pygame.display.set_caption("School of Fish")
 
-icon = pygame.image.load('icon.png')
+icon = pygame.image.load('fish.ico')
 pygame.display.set_icon(icon)
 
 #Fish Properties
